@@ -28,9 +28,135 @@ Objectifs:
 ## Les fonctionnalités du projet (spécifications fonctionnelles)
 - MVP (à voir)
   - Étapes
-    - page d'accueil avec les liens vers toutes les autres pages
-    - 
-- 
+    - page d'accueil avec les liens # vers toutes les autres pages
+      - Numéro de téléphone et adresse de Pet Foster Connect
+      - Liste des associations disponibles (adresse / téléphone)
+    - Formulaire d'inscription
+      - pour les associations et pour les bénévoles
+       ( Collecte d'informations telles que le nom, l'adresse e-mail, le numéro de téléphone, et la création de mot de passe)
+    - Page de connexion
+      - Formulaire de connexion pour tous les utilisateurs (associations ou bénévoles)
+    - Tableau de bord (famille d'accueil)
+      - Création / modification de profil détaillé.
+        - nom / prénom
+        - adresse
+        - email
+        - téléphone
+      - Affichage du statut des demandes d'accueil.
+    - Tableau de bord (association)
+      - Création - modification du profil détaillé.
+      - Gestion des animaux à accueillir
+        - ajout d'un animal -> renvoie à la page d'un animal
+        - modification d'un animal -> renvoie à la page d'un animal
+        - suppression d'un animal
+      - Gestion des demandes d'accueil
+        - accepter / refuser une demande
+        - historique
+    - Page de recherche d'animaux
+      - moteur de recherche avancé
+        - affichage des animaux adoptables
+    - Page d'un animal
+      - détails de l'animal
+        - espèce, âge, race, infos diverses ...
+        - possibilité de se positionner sur l'animal
+    - Page d'une association
+      - détails de l'association
+      - liste des animaux disponibles
+
+  - Les évolutions potentielles
+    - Utilisateurs et associations :
+        - Intégration d'un système de messagerie interne entre eux
+    - Utilisateurs :
+        - Possibilité de créer une liste de favoris pour les animaux
+        - Système de notifications pour les informer des mises à jour sur leurs demandes ou sur les animaux disponibles
+        - Intégration d'un système de géolocalisation pour trouver des animaux à proximité
+
+  -  La liste des technologies utilisées pour le projet (spécifications techniques)
+    - Git pour le versionning
+    - Côté back
+      - Node JS
+      - Express
+      - Postgres
+      - Active Record / Sequilize
+      - bcrypt (crypter les mots de passe)
+      - Slugify
+      - SASS
+    - Côté front
+      - HTML
+      - CSS
+      - JS Pur / React / VUE JS
+    - Gestion du RGPD
+
+  - La définition de la cible du projet
+    - associations
+    - particuliers tout public
+      - personnes âgées
+      - personnes à mobilité réduite
+      - personnes mal voyantes
+        - adapté le site aux lecteurs d'écran (NVDA ...)
+
+  - Les naviagateurs compatibles
+    - Google Chrome
+    - Mozilla Firefox
+    - Safari
+    - Microsoft Edge
+    - ...
+
+  - L'arborescence de l'application
+    - Accueil (non connecté)
+      - Page d'inscription
+      - Page de connexion
+      - Page de recherche d'animaux
+      - Pages individuelles pour les animaux et les associations
+    - Accueil (connecté)
+      - Page déconnexion
+      - Tableau de bord pour les familles d'accueil
+      - Tableau de bord pour les associations
+      - Page de recherche d'animaux
+      - Pages individuelles pour les animaux et les associations
+      -  À propos 
+      
+  - La liste des routes prévues
+    - Acceuil : /
+    - Page d'inscription : /sign-in
+    - Page de connexion : /login
+    - Tableau de bord (association) : /dashboard/association
+    - Tableau de bord (famille d’accueil) : /dashboard/foster
+    - page de recherche d'animaux : /search
+    - Page d’un animal : /animals/:id
+    - Page d’une Association : /association/:id
+    - À propos : /about
+
+  - La liste des User stories 
+    - En tant que Visiteurs : 
+      - je veux pouvoir m'inscrire sur la plateforme en tant que bénévole ou association.
+      - je veux pouvoir me connecter à mon compte.
+      - je veux pouvoir rechercher des animaux à accueillir selon différents critères.
+      - je veux pouvoir consulter les détails d'un animal et d'une association
+    - En tant qu'utilisateur connecté :
+      - je veux pouvoir me déconnecter
+      - En tant que bénévole
+        - je veux pouvoir rechercher des animaux
+          - je veux pouvoir Consulter la fiche d'un animal
+            - je veux pouvoir me positionner pour un animal
+        - je veux pouvoir consulter le détail d'une association
+        - je veux pouvoir accéder à mon tableau de bord
+          - je veux pouvoir modifier ton profil
+          - je veux pouvoir accéder au status de mes demandes
+        - je veux pouvoir me positionner sur un animal
+      - En tant qu'association
+        - je veux pouvoir rechercher des animaux
+          - je veux pouvoir Consulter la fiche d'un animal
+        - je veux pouvoir consulter le détail d'une association
+        - je veux pouvoir accéder à mon tableau de bord
+          - je veux pouvoir modifier mon profil
+          - je veux pouvoir gérer les animaux à accueillir
+            - je veux pouvoir ajouter / modifier / supprimer un animal
+          - je veux pouvoir visualiser aux demandes
+            - je veux pouvoir valider / refuser une demande
+          - je veux pouvoir visualiser l'historique des demandes d'accueil traitées
+
+
 
 # Le CDC : contenu
 - La présentation du projet

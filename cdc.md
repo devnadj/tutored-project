@@ -129,32 +129,39 @@ Objectifs:
 
   - La liste des User stories 
     - En tant que Visiteurs : 
-      - je veux pouvoir m'inscrire sur la plateforme en tant que bénévole ou association.
-      - je veux pouvoir me connecter à mon compte.
-      - je veux pouvoir rechercher des animaux à accueillir selon différents critères.
-      - je veux pouvoir consulter les détails d'un animal et d'une association
+      - je veux pouvoir m'inscrire sur la plateforme en tant que bénévole ou association (depuis la page d'accueil).
+      - je veux pouvoir me connecter à mon compte (depuis la page d'accueil).
+      - je veux pouvoir rechercher des animaux à accueillir selon différents critères (depuis la page d'accueil).
+      - je veux pouvoir consulter les détails d'un animal et d'une association (depuis la page de l'animal ou de la page de l'association).
     - En tant qu'utilisateur connecté :
-      - je veux pouvoir me déconnecter
+      - je veux pouvoir me déconnecter (depuis la page d'accueil).
       - En tant que bénévole
-        - je veux pouvoir rechercher des animaux
-          - je veux pouvoir Consulter la fiche d'un animal
-            - je veux pouvoir me positionner pour un animal
-        - je veux pouvoir consulter le détail d'une association
-        - je veux pouvoir accéder à mon tableau de bord
-          - je veux pouvoir modifier ton profil
-          - je veux pouvoir accéder au status de mes demandes
-        - je veux pouvoir me positionner sur un animal
+        - je veux pouvoir rechercher des animaux (depuis la page d'accueil).
+          - je veux pouvoir Consulter la fiche d'un animal (depuis la page de résultats de recherche).
+            - je veux pouvoir me positionner pour un animal (depuis la page de résultatsde recherche).
+        - je veux pouvoir consulter le détail d'une association (depuis la page d'accueil).
+        - je veux pouvoir accéder à mon tableau de bord (depuis la page d'accueil).
+          - je veux pouvoir modifier mon profil (depuis la page tableau de bord).
+          - je veux pouvoir accéder au status de mes demandes (depuis la page tableau de bord).
+        - je veux pouvoir me positionner sur un animal (depuis la page détaillée de l'animal).
       - En tant qu'association
-        - je veux pouvoir rechercher des animaux
-          - je veux pouvoir Consulter la fiche d'un animal
-        - je veux pouvoir consulter le détail d'une association
-        - je veux pouvoir accéder à mon tableau de bord
-          - je veux pouvoir modifier mon profil
-          - je veux pouvoir gérer les animaux à accueillir
-            - je veux pouvoir ajouter / modifier / supprimer un animal
-          - je veux pouvoir visualiser aux demandes
-            - je veux pouvoir valider / refuser une demande
-          - je veux pouvoir visualiser l'historique des demandes d'accueil traitées
+        - je veux pouvoir rechercher des animaux (depuis la page d'accueil).
+          - je veux pouvoir Consulter la fiche d'un animal (depuis la page de résultat de recherche).
+        - je veux pouvoir consulter le détail d'une association (depuis la page d'accueil).
+        - je veux pouvoir accéder à mon tableau de bord (depuis la page tableau de bord).
+          - je veux pouvoir modifier mon profil (depuis la page tableau de bord).
+          - je veux pouvoir gérer les animaux à accueillir (depuis la page tableau de bord).
+            - je veux pouvoir ajouter / modifier / supprimer un animal (depuis la page tableau de bord).
+          - je veux pouvoir visualiser les demandes (depuis la page tableau de bord).
+            - je veux pouvoir valider / refuser une demande (depuis la page tableau de bord)
+          - je veux pouvoir visualiser l'historique des demandes d'accueil traitées (depuis la page tableau de bord sous onglet "historique").
+
+  - La liste des rôles de chacun
+    - Product Owner : Priscilla
+    - Scrum Master :  Nadj, Priscilla
+    - Lead dev : Nadj
+    - Référents techniques : git : Adrian
+    - Référents techniques : techno : Adrian, Yolanda, 
 
 
 

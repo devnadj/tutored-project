@@ -6,6 +6,8 @@
 
 L'adoption d'animaux de compagnie est une démarche qui demande de la réflexion, de l'engagement, et des ressources. Malheureusement, de nombreux refuges pour animaux sont saturés, et de nombreux animaux attendent désespérément un foyer chaleureux. C'est dans ce contexte que Pet Foster Connect voit le jour, en offrant une solution novatrice pour mettre en relation des associations de protection animale avec des individus prêts à accueillir temporairement des animaux en détresse.
 
+![Alt text](image.png)
+
 ## Sauvez des vies temporairement
 Pet Foster Connect vous permet de jouer un rôle crucial en accueillant des animaux en attendant leur adoption définitive. Vous pouvez être le pont vers une vie meilleure pour ces créatures à quatre pattes.
 

@@ -143,6 +143,9 @@ Objectifs:
         - je veux pouvoir accéder à mon tableau de bord (depuis la page d'accueil).
           - je veux pouvoir modifier mon profil (depuis la page tableau de bord).
           - je veux pouvoir accéder au status de mes demandes (depuis la page tableau de bord).
+          - je veux pouvoir ajouter / modifier / supprimer un antécédent <ajouté le 30 janvier>
+          - je veux pouvoir ajouter / modifier / supprimer une préférence <ajouté le 30 janvier>
+          - je veux pouvoir ajouter / modifier / supprimer mes disponibilité <ajouté le 30 janvier>
         - je veux pouvoir me positionner sur un animal (depuis la page détaillée de l'animal).
       - En tant qu'association
         - je veux pouvoir rechercher des animaux (depuis la page d'accueil).
@@ -156,6 +159,8 @@ Objectifs:
             - je veux pouvoir valider / refuser une demande (depuis la page tableau de bord)
           - je veux pouvoir visualiser l'historique des demandes d'accueil traitées (depuis la page tableau de bord sous onglet "historique").
 
+![ARB](/ARB-PFC.png)
+
   - La liste des rôles de chacun
     - Product Owner : Priscilla
     - Scrum Master :  Nadj, Priscilla
@@ -165,7 +170,7 @@ Objectifs:
 
 
 
-# Le CDC : contenu
+ # Le CDC : contenu
 - La présentation du projet
 - La définition des besoins (problèmes auxquels répond le projet) et des objectifs (solutions qu'apporte le projet) du projet
 - Les briefs clients qui vous ont été fournis sont déjà bien détaillés, ça constituera une base parfaite 😉
@@ -181,3 +186,47 @@ Objectifs:
 - La liste des routes prévues
 - La liste des User stories : micro-scénarios, en tant que tel utilisateur, je dois pouvoir effectuer telle action depuis tel endroit (chaque action sera redécoupée en différentes fonctionnalités)
 - La liste des rôles de chacun
+
+
+
+
+## MCD
+
+  - Entités :
+    - Bénévole : utilisateurs qui s'inscrivent sur la plateforme pour offrir leur aide aux associations
+    - Association : organisation de protection animale qui utilise la plateforme pour trouver des familles d'accueil temporaires pour les animaux.
+    - Animal : Les animaux sont les êtres nécessitant une attention
+
+  - Attributs : 
+    - Bénévole :
+      - ID
+      - Nom
+      - Prénom
+      - email
+      - Téléphone
+      - Date de naissance
+      - Mot_de_passe
+      - Adresse
+      - Autres informations de profil (disponibilité, préférences, etc.)
+
+    - Association
+      - ID
+      - Nom
+      - email
+      - Contact (Nom / Prénom)
+      - Téléphone
+      - SIRET
+      - Mot_de_passe
+      - Adresse
+      - Autres informations de profil (domaine d'intervention, localisation, etc.)
+
+    - Animal
+      - ID
+      - Nom_animal
+      - Espèce
+      - Race
+      - Date De Naissance
+      - Statut ( adoptable, en cours d'adoption, etc.)
+    
+     
+

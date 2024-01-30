@@ -119,6 +119,8 @@ Objectifs:
   - La liste des routes prévues
     - Acceuil : /
     - Page d'inscription : /sign-in
+    - /sign-in/asso
+    - /sign-in/benevole
     - Page de connexion : /login
     - Tableau de bord (association) : /dashboard/association
     - Tableau de bord (famille d’accueil) : /dashboard/foster

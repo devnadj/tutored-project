@@ -88,6 +88,8 @@ Prisc : Ce que j'ai fait la veille :
                     - Prise de décisions en groupe : les localités, les préférences et la mise en place de la nav bar.
                     - Mise en page du cahier des charges.
 
+Adrian : 
+
 
 01/02/2024
           Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui

@@ -73,12 +73,12 @@ Prisc : Ce que j'ai fait la veille :
                     - Mise en page du cahier des charges.
                     - Modification du logo.
 
-          - Problème rencontrer :
+ - Problème rencontrer :
                     - Manque de temps pour finir la mise en page du cahier des charges
                     - Manque de temps pour la modification du logo
                     - Importation des images dans le dépôt
                     
-          - Ce que je fait aujourd'hui :
+ - Ce que je fait aujourd'hui :
                     - Animation de la réunion d'équipe
                     - Wireframe (mobile + écran) de la page à propos
                     - Wireframe (mobile + écran) de la page de présentation d'une asso

@@ -3,10 +3,22 @@
 ## 29/01/2024
           
 - Adrian :
-
+  - ce que j'ai fait la veille : /
+  - ce que j'ai fait aujourd'hui: 
+    - élaboration du cdc avec le groupe
+    - création du mcd avec le groupe
+    - création de l'arborescence avec le groupe
+    - déterminer les routes avec le groupe
+    - attribution des rôles avec le groupe
 
 - Yolanda : 
-
+  - ce que j'ai fait la veille : /
+  - ce que j'ai fait aujourd'hui: 
+    - élaboration du cdc avec le groupe
+    - création du mcd avec le groupe
+    - création de l'arborescence avec le groupe
+    - déterminer les routes avec le groupe
+    - attribution des rôles avec le groupe
 
 - Nadj
   - ce que j'ai fait la veille : /
@@ -25,30 +37,50 @@
   - Création du MCD à l'écrit et en schéma avec le groupe.
   - Attribution des rôles dans le groupe.
 
-
 ## 30/01/2024
-          
-          
+
 - Adrian
+  - ce que j'ai fait la veille : 
+    - Élaboration du cahier des charges (groupe).
+    - Création du MCD à l'écrit et en schéma (groupe).
+    - Attribution des Rôles dans le groupe.
 
 
 - Yolanda
+  - ce que j'ai fait la veille : 
+    - Élaboration du cahier des charges (groupe).
+    - Création du MCD à l'écrit et en schéma (groupe).
+    - Attribution des Rôles dans le groupe.
 
 
 - Nadj
+  - ce que j'ai fait la veille : 
+    - Élaboration du cahier des charges (groupe).
+    - Création du MCD à l'écrit et en schéma (groupe).
+    - Attribution des Rôles dans le groupe.
 
+  - Problèmes rencontrés
+    - Nous avons remarqué des manques dans le MCD.
+    - L'arborescence du site complexe
+
+  - Ce que j'ai fait aujourd'hui: 
+    - Rectification et ajout d'informations dans le MCD (groupe)
+    - Partage des wireframes avec le groupe
+      - wireframes (mobile et écran): inscription (bénévoles et asso)
+    - Création d'une arborescence de site plus simple et plus claire
 
 - Prisc : Ce que j'ai fait la veille
   - Élaboration du cahier des charges (groupe).
   - Création du MCD à l'écrit et en schéma (groupe).
   - Attribution des Rôles dans le groupe.
 
-  - Problème rencontrer: nous avons remarqué des manques dans le MCD.
+  - Problèmes rencontrés
+    - Nous avons remarqué des manques dans le MCD.
 
   - Ce que je fait aujourd'hui
-    -  Rectification et ajout d'informations dans le MCD (groupe)
-    - Partage des wireframe avec le groupe
-      - Wireframe (mobile + écran) du tableau de bord d'une association avec les Wireframes des boutons que contient la page
+    - Rectification et ajout d'informations dans le MCD (groupe)
+    - Partage des wireframes avec le groupe
+      - Wireframes (mobile + écran) du tableau de bord d'une association avec les Wireframes des boutons que contient la page
     - Mise en page du cahier des charges.
     - Modification du logo.
 

@@ -138,7 +138,27 @@ Yolanda :
 Nadj :
 
 
-Prisc :
+Prisc :  - Animation de la réunion d'équipe
+          - Wireframe (mobile + écran) de la page à propos
+          - Wireframe (mobile + écran) de la page de présentation d'une asso
+          - Wireframe (mobile + écran)
+          - Wireframe (mobile + écran) de la page résultat de la recherche
+          - Modification du Wireframe (mobile + écran) du tableau de bord d'une association : Bouton, Page demandes en cour
+          - Prise de décisions en groupe : les localités, les préférences et la mise en place de la nav bar.
+          - Mise en page du cahier des charges.
+
+ Problème rencontré : - MCD : Trop de tables (en groupe)
+           - Wireframe (mobile + écran) trop complets (en groupe)
+           - User stories à compléter avec le pourquoi ? (en groupe)
+           - Arborescence: Rajouter les noms des pages (en groupe)
+           - Manque de temps pour le cahier des charges
+           - CDC : manque le nom de certaines pages sur les routes
+           
+Ce que j'ai fait aujourd'hui : Relier les Wireframes (mobiles + écrans) entre eux
+          - Rajout des  pourquoi sur les User stories
+          - Rajout le nom des pages pour les routes
+          - Rajout des Wireframes avec moin de détails
+          - Cahier des charges
 
 
 02/02/2024

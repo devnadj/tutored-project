@@ -118,16 +118,16 @@ Objectifs:
       
   - La liste des routes prévues
     - Acceuil : /
-    - Page d'inscription : /sign-in
-      - Pour la selection Associations : /sign-in/asso
-      - Pour la selection bénévole : /sign-in/benevole
-    - Page de connexion : /login
-    - Tableau de bord (association) : /dashboard/association
-    - Tableau de bord (famille d’accueil) : /dashboard/foster
-    - page de recherche d'animaux : /search
-      - Page d’un animal : /animals/:id
-         - Page d’une Association : /association/:id
-    - À propos : /about
+    - Page d'inscription : /sign-in : GET
+      - Pour la selection Associations : /sign-in/asso : POST
+      - Pour la selection bénévole : /sign-in/benevole : POST
+    - Page de connexion : /login : POST
+    - Tableau de bord (association) : /dashboard/association : GET
+    - Tableau de bord (famille d’accueil) : /dashboard/foster : GET
+    - page de recherche d'animaux : /search : GET
+      - Page d’un animal : /animals/:id : GET
+         - Page d’une Association : /association/:id : GET
+    - À propos : /about : GET
 
   - La liste des User stories
     

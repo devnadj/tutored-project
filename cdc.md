@@ -198,6 +198,9 @@ Objectifs:
     - Bénévole : utilisateurs qui s'inscrivent sur la plateforme pour offrir leur aide aux associations
     - Association : organisation de protection animale qui utilise la plateforme pour trouver des familles d'accueil temporaires pour les animaux.
     - Animal : Les animaux sont les êtres nécessitant une attention
+    - Historique
+    - Antecedent
+    - Disponibilite
 
   - Attributs : 
     - Bénévole :

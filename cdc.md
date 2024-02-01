@@ -84,7 +84,7 @@ Objectifs:
     - Côté front
       - HTML
       - CSS
-      - JS Pur / React / VUE JS
+      - JS Pur / React
     - Gestion du RGPD
 
   - La définition de la cible du projet
@@ -119,14 +119,14 @@ Objectifs:
   - La liste des routes prévues
     - Acceuil : /
     - Page d'inscription : /sign-in
-    - /sign-in/asso
-    - /sign-in/benevole
+      - Pour la selection Associations : /sign-in/asso
+      - Pour la selection bénévole : /sign-in/benevole
     - Page de connexion : /login
     - Tableau de bord (association) : /dashboard/association
     - Tableau de bord (famille d’accueil) : /dashboard/foster
     - page de recherche d'animaux : /search
-    - Page d’un animal : /animals/:id
-    - Page d’une Association : /association/:id
+      - Page d’un animal : /animals/:id
+         - Page d’une Association : /association/:id
     - À propos : /about
 
   - La liste des User stories

@@ -129,37 +129,38 @@ Objectifs:
     - Page d’une Association : /association/:id
     - À propos : /about
 
-  - La liste des User stories 
+  - La liste des User stories
+    
     - En tant que Visiteurs : 
-      - je veux pouvoir m'inscrire sur la plateforme en tant que bénévole ou association (depuis la page d'accueil).
-      - je veux pouvoir me connecter à mon compte (depuis la page d'accueil).
-      - je veux pouvoir rechercher des animaux à accueillir selon différents critères (depuis la page d'accueil).
+      - je veux pouvoir m'inscrire sur la plateforme en tant que bénévole avoir un compte et accueillir temporairement des animaux (depuis la page d'accueil).
+      - je veux pouvoir m'inscrire sur la plateforme en tant qu'association pour proposé des animaux à l'adoption temporaire. (depuis la page d'accueil) 
+      - je veux pouvoir rechercher des animaux à accueillir selon différents critères par curiosité (depuis la page d'accueil).
       - je veux pouvoir consulter les détails d'un animal et d'une association (depuis la page de l'animal ou de la page de l'association).
     - En tant qu'utilisateur connecté :
       - je veux pouvoir me déconnecter (depuis la page d'accueil).
       - En tant que bénévole
-        - je veux pouvoir rechercher des animaux (depuis la page d'accueil).
-          - je veux pouvoir Consulter la fiche d'un animal (depuis la page de résultats de recherche).
-            - je veux pouvoir me positionner pour un animal (depuis la page de résultatsde recherche).
-        - je veux pouvoir consulter le détail d'une association (depuis la page d'accueil).
-        - je veux pouvoir accéder à mon tableau de bord (depuis la page d'accueil).
-          - je veux pouvoir modifier mon profil (depuis la page tableau de bord).
-          - je veux pouvoir accéder au status de mes demandes (depuis la page tableau de bord).
-          - je veux pouvoir ajouter / modifier / supprimer un antécédent <ajouté le 30 janvier>
-          - je veux pouvoir ajouter / modifier / supprimer une préférence <ajouté le 30 janvier>
-          - je veux pouvoir ajouter / modifier / supprimer mes disponibilité <ajouté le 30 janvier>
-        - je veux pouvoir me positionner sur un animal (depuis la page détaillée de l'animal).
+      - - je veux pouvoir me connecter à mon compte pour accueillir temporairement des animaux (depuis la page d'accueil).
+        - je veux pouvoir rechercher des animaux pour consulter la fiche d'un animal (depuis la page d'accueil).
+          - je veux pouvoir Consulter la fiche d'un animal pour me positionner pour un animal (depuis la page de résultats de recherche).
+            - je veux pouvoir me positionner pour un animal pour accueillir temporairement l'animal (depuis la page fiche de l'animal).
+        - je veux pouvoir consulter le détail d'une association pour avoir plus d'informations sur l'association (depuis la page fiche de l'animal).
+        - je veux pouvoir accéder à mon tableau de bord pour ajouter, modifier, ou supprimé mes informations, pour accéder au status de mes demandes (depuis la page d'accueil).
+        - je veux pouvoir modifier mon profil pour signaler tout changement. (depuis la page tableau de bord).
+        - je veux pouvoir accéder au statut de mes demandes pour être informé des acceptations ou des refus de mes demandes.(depuis la page tableau de bord).
+          - Je veux pouvoir ajouter/modifier/supprimer mes antécédents pour informer les associations de mes précédents accueils. ( depuis la page tableau de bord).
+          - je veux pouvoir indiqué sur mon profil si je suis disponible ou pas pour informé les associations de mon statut (depuis la page tableau de bord).
+  
       - En tant qu'association
-        - je veux pouvoir rechercher des animaux (depuis la page d'accueil).
-          - je veux pouvoir Consulter la fiche d'un animal (depuis la page de résultat de recherche).
-        - je veux pouvoir consulter le détail d'une association (depuis la page d'accueil).
-        - je veux pouvoir accéder à mon tableau de bord (depuis la page tableau de bord).
-          - je veux pouvoir modifier mon profil (depuis la page tableau de bord).
-          - je veux pouvoir gérer les animaux à accueillir (depuis la page tableau de bord).
-            - je veux pouvoir ajouter / modifier / supprimer un animal (depuis la page tableau de bord).
-          - je veux pouvoir visualiser les demandes (depuis la page tableau de bord).
-            - je veux pouvoir valider / refuser une demande (depuis la page tableau de bord)
-          - je veux pouvoir visualiser l'historique des demandes d'accueil traitées (depuis la page tableau de bord sous onglet "historique").
+      - je veux pouvoir me connecter à mon compte pour proposé des animaux à l'adoption temporaire. (depuis la page d'accueil)
+        - je veux pouvoir rechercher des animaux pour vérifier si, mes ajouts d'animaux on bien été faits. (depuis la page d'accueil).
+          - je veux pouvoir consulter la fiche d'un animal pour vérifier qu'il n'y est pas d'erreurs. (depuis la page de résultat de recherche).
+        - je veux pouvoir consulter le détail de l'association pour vérifier qu'il n'y est pas d'erreurs.(depuis la page fiche animal).
+        - je veux pouvoir accéder à mon tableau de bord pour ajouter, modifier, ou supprimé mes informations, pour accéder au status de mes demandes, ...  (depuis la page tableau de bord).
+          - je veux pouvoir modifier mon profil pour signaler tout changement. (depuis la page tableau de bord).
+         - je veux pouvoir ajouter/modifier / supprimer un animal pour signaler un nouvel arrivant dans l'association, pour modifier les informations, car l'animal est adopté. (depuis la page tableau de bord).
+          - je veux pouvoir visualiser les demandes pour confirmer ou refuser la demande d'un bénévole (depuis la page tableau de bord).
+             - je veux pouvoir valider/refuser une demande si l'animal libre ou s'il est déjà placé. (depuis la page tableau de bord)
+          - je veux pouvoir visualiser l'historique des demandes d'accueil traitées pour avoir une trace écrite (depuis la page tableau de bord sous onglet "historique").
 
 ![ARB](/ARB-PFC.png)
 

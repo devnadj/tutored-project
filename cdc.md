@@ -62,6 +62,10 @@ Objectifs:
     - Page d'une association
       - détails de l'association
       - liste des animaux disponibles
+    - Page "A propos"
+      - dérails de la plateforme Pet Foster Connect
+    - Page  RGPD
+        -  informations sur les droit de l'utilisateurs, les cookies, le traitement des données 
 
   - Les évolutions potentielles
     - Utilisateurs et associations :
@@ -107,14 +111,15 @@ Objectifs:
       - Page d'inscription
       - Page de connexion
       - Page de recherche d'animaux
-      - Pages individuelles pour les animaux et les associations
+      - Page A propos
+      - Page RGPD
     - Accueil (connecté)
       - Page déconnexion
       - Tableau de bord pour les familles d'accueil
       - Tableau de bord pour les associations
       - Page de recherche d'animaux
-      - Pages individuelles pour les animaux et les associations
-      -  À propos 
+      - Pages RGPD
+      - Page À propos 
       
   - La liste des routes prévues
     - Acceuil : /
@@ -128,6 +133,7 @@ Objectifs:
       - Page d’un animal : /animals/:id : GET
          - Page d’une Association : /association/:id : GET
     - À propos : /about : GET
+    - RGPD : /mentions-legales
 
   - La liste des User stories
     
@@ -136,8 +142,13 @@ Objectifs:
       - je veux pouvoir m'inscrire sur la plateforme en tant qu'association pour proposé des animaux à l'adoption temporaire. (depuis la page d'accueil) 
       - je veux pouvoir rechercher des animaux à accueillir selon différents critères par curiosité (depuis la page d'accueil).
       - je veux pouvoir consulter les détails d'un animal et d'une association (depuis la page de l'animal ou de la page de l'association).
+      - je veux pouvoir consulter la page ‘A propos’ pour avoir des renseignements sur le site. (depuis la page d’accueil)
+      - je veux pouvoir consulter la page RGPD pour savoir la réglementation concernant la protection des données (depuis la page d’accueil).
+
     - En tant qu'utilisateur connecté :
       - je veux pouvoir me déconnecter (depuis la page d'accueil).
+      - je veux pouvoir consulter la page ‘A propos’ pour avoir des renseignements sur le site. (depuis la page d’accueil)
+      - je veux pouvoir consulter la page RGPD pour savoir la réglementation concernant la protection des données (depuis la page d’accueil).
       - En tant que bénévole
       - - je veux pouvoir me connecter à mon compte pour accueillir temporairement des animaux (depuis la page d'accueil).
         - je veux pouvoir rechercher des animaux pour consulter la fiche d'un animal (depuis la page d'accueil).

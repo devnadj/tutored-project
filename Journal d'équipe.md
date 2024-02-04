@@ -172,7 +172,17 @@ Yolanda :
 Nadj :
 
 
-Prisc :
+Prisc : Ce que j'ai fait la veille :  Relier les Wireframes (mobiles + écrans) entre eux
+                    - Rajout des  pourquoi sur les User stories
+                    - Rajout le nom des pages pour les routes
+                    - Rajout des Wireframes avec moin de détails
+                    - Cahier des charges
+          Problème rencontrer : Manque de temps pour finir le cahier des charges
+                    - Oubli de la page RGPD
+          Ce que je fait aujourd'hui : Finir le cahier des charges
+                    - Mettre le cahier des charges sur le drive
+                    - Corriger les erreurs dans le CDC 
+                    - Rajouter la route + les User stories pour la page RGPD
 
 
 05/02/2024

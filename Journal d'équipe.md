@@ -196,7 +196,19 @@ Yolanda :
 Nadj :
 
 
-Prisc :
+Prisc :  Ce que j'ai fait la veille : Finir le cahier des charges
+- Mettre le cahier des charges sur le drive
+- Corriger les erreurs dans le CDC
+- Rajouter la route + les User stories pour la page RGPD
+
+Problème rencontré : Changements multiples sur le cahier des charges
+
+Ce que je fais aujourd'hui : - Présentation du projet au groupe Senior Love
+- Documentations sur les mentions légales
+- Reprise de Wireframes
+- (En groupe) - mise en place de la structure du site
+- Création des routes
+- Création du code minimum des contrôlers
 
 
 06/02/2024

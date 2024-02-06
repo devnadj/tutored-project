@@ -222,7 +222,20 @@ Yolanda :
 Nadj :
 
 
-Prisc :
+Prisc : Ce que j'ai fait la veille : Présentation du projet au groupe Senior Love
+- Documentations sur les mentions légales
+- Reprise de Wireframes
+- (En groupe) - mise en place de la structure du site
+- Création des routes
+- Création du code minimum des contrôlers
+
+Problème rencontrer : Documentations sur les mentions légales long à faire
+          - Reprise de Wireframes long à faire
+
+Ce que je fait aujourd'hui :  (En groupe) Création de la base petfoster
+          - Création de l'utilisateur petfoster
+          - Création des tables
+          - Mise en place d'une table
 
 
 07/02/2024

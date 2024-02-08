@@ -271,7 +271,15 @@ Yolanda :
 Nadj :
 
 
-Prisc :
+Prisc : Ce que j'ai fait la veille : ( En groupe) Model User:
+             - Création du create
+             - Du read
+             - Du update
+     - Problème rencontrer : petit bug au niveau des requêtes     
+             - Ce que je fait aujourd'hui: Création de la méthode delete. 
+             - Testé et débuggé le modèle user.js. 
+             - Créé et terminé le modèle association.js'. 
+             - Il reste à terminé le débugage
 
 
 09/02/2024

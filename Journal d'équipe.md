@@ -249,7 +249,15 @@ Yolanda :
 Nadj :
 
 
-Prisc :
+Prisc : Ce que j'ai fait la veille : (En groupe) Création de la base petfoster
+          - Création de l'utilisateur petfoster
+          - Création des tables
+          - Mise en place d'une table
+ - Problème rencontrer : /
+ - Ce que je fait aujourd'hui : ( En groupe) Model User:
+             - Création du create
+             - Du read
+             - Du update
 
 
 08/02/2024

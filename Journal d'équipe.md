@@ -73,14 +73,11 @@
   - Élaboration du cahier des charges (groupe).
   - Création du MCD à l'écrit et en schéma (groupe).
   - Attribution des Rôles dans le groupe.
-
-<<<<<<< HEAD
-  - Problèmes rencontrés
-    - Nous avons remarqué des manques dans le MCD.
-=======
+- Problèmes rencontrés
+  - Nous avons remarqué des manques dans le MCD.
   - Problème rencontrer: nous avons remarqué des manques dans le MCD.
-                        - Importation des images dans le dépôt
->>>>>>> d92530a2f8a41d95414e3fea8247a2362ff30b9f
+  - Importation des images dans le dépôt
+
 
   - Ce que je fait aujourd'hui
     - Rectification et ajout d'informations dans le MCD (groupe)
@@ -197,18 +194,18 @@ Nadj :
 
 
 Prisc :  Ce que j'ai fait la veille : Finir le cahier des charges
-- Mettre le cahier des charges sur le drive
-- Corriger les erreurs dans le CDC
-- Rajouter la route + les User stories pour la page RGPD
+          - Mettre le cahier des charges sur le drive
+          - Corriger les erreurs dans le CDC
+          - Rajouter la route + les User stories pour la page RGPD
 
 Problème rencontré : Changements multiples sur le cahier des charges
 
 Ce que je fais aujourd'hui : - Présentation du projet au groupe Senior Love
-- Documentations sur les mentions légales
-- Reprise de Wireframes
-- (En groupe) - mise en place de la structure du site
-- Création des routes
-- Création du code minimum des contrôlers
+          - Documentations sur les mentions légales
+          - Reprise de Wireframes
+          - (En groupe) - mise en place de la structure du site
+          - Création des routes
+          - Création du code minimum des contrôlers
 
 
 06/02/2024
@@ -223,11 +220,11 @@ Nadj :
 
 
 Prisc : Ce que j'ai fait la veille : Présentation du projet au groupe Senior Love
-- Documentations sur les mentions légales
-- Reprise de Wireframes
-- (En groupe) - mise en place de la structure du site
-- Création des routes
-- Création du code minimum des contrôlers
+          - Documentations sur les mentions légales
+          - Reprise de Wireframes
+          - (En groupe) - mise en place de la structure du site
+          - Création des routes
+          - Création du code minimum des contrôlers
 
 Problème rencontrer : Documentations sur les mentions légales long à faire
           - Reprise de Wireframes long à faire
@@ -276,13 +273,232 @@ Prisc : Ce que j'ai fait la veille : ( En groupe) Model User:
              - Du read
              - Du update
      - Problème rencontrer : petit bug au niveau des requêtes     
-             - Ce que je fait aujourd'hui: Création de la méthode delete. 
+     - Ce que je fait aujourd'hui: Création de la méthode delete. 
              - Testé et débuggé le modèle user.js. 
              - Créé et terminé le modèle association.js'. 
              - Il reste à terminé le débugage
 
 
 09/02/2024
+          Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui
+Adrian :
+
+
+Yolanda : 
+
+
+Nadj :
+
+
+Prisc : - Ce que j'ai fait la veille : Création de la méthode delete. 
+             - Testé et débuggé le modèle user.js. 
+             - Créé et terminé le modèle association.js'. 
+             - Il reste à terminé le débugage
+          - Problème rencontrer : /
+          - Ce que je fait aujourd'hui : - Lister les catégories, les espèces, les races, les animaux (avec leur sexe, leur nom, leur compatibilité, ...) 
+                                        - ajouter 3 images pour chaque animal
+                                        - créer un tableau sur un fichier md pour répertorier le tout
+                                        - création de la page d'accueil en html
+
+
+12/02/2024
+          Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui
+Adrian :
+
+
+Yolanda : 
+
+
+Nadj :
+
+
+Prisc : - Ce que j'ai fait la veille :  - Lister les catégories, les espèces, les races, les animaux (avec leur sexe, leur nom, leur compatibilité, ...) 
+                                        - ajouter 3 images pour chaque animal
+                                        - créer un tableau sur un fichier md pour répertorier le tout
+                                        - création de la page d'accueil en html
+          - Problème rencontrer : - Css pour la partie deux de la page d'acueil
+          - Ce que je fait aujourd'hui : - Création de toutes les pages inscriptions en html
+                                         - ( en groupe) choix des icones
+                                         - finir la page accueil 
+                                         - Tableau de bord d'une association en html
+
+
+13/02/2024
+          Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui
+Adrian :
+
+
+Yolanda : 
+
+
+Nadj :
+
+
+Prisc : - Ce que j'ai fait la veille: - - Création de toutes les pages inscriptions en html
+                                         - ( en groupe) choix des icones
+                                         -  finir la page accueil
+                                         - Tableau de bord d'une association en html
+          -  Problème rencontrer : /
+          - Ce que je fait aujourd'hui : - Page de recherche en html 
+                                        - création des vues pour la partie recherche, tableau de bord association et inscription
+
+14/02/2024
+          Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui
+Adrian :
+
+
+Yolanda : 
+
+
+Nadj :
+
+
+Prisc :
+
+15/02/2024
+          Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui
+Adrian :
+
+
+Yolanda : 
+
+
+Nadj :
+
+
+Prisc :
+
+16/02/2024
+          Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui
+Adrian :
+
+
+Yolanda : 
+
+
+Nadj :
+
+
+Prisc :
+
+19/02/2024
+          Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui
+Adrian :
+
+
+Yolanda : 
+
+
+Nadj :
+
+
+Prisc :
+
+20/02/2024
+          Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui
+Adrian :
+
+
+Yolanda : 
+
+
+Nadj :
+
+
+Prisc :
+
+21/02/2024
+          Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui
+Adrian :
+
+
+Yolanda : 
+
+
+Nadj :
+
+
+Prisc :
+
+22/02/2024
+          Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui
+Adrian :
+
+
+Yolanda : 
+
+
+Nadj :
+
+
+Prisc :
+
+23/02/2024
+          Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui
+Adrian :
+
+
+Yolanda : 
+
+
+Nadj :
+
+
+Prisc :
+
+26/02/2024
+          Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui
+Adrian :
+
+
+Yolanda : 
+
+
+Nadj :
+
+
+Prisc :
+
+27/02/2024
+          Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui
+Adrian :
+
+
+Yolanda : 
+
+
+Nadj :
+
+
+Prisc :
+
+28/02/2024
+          Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui
+Adrian :
+
+
+Yolanda : 
+
+
+Nadj :
+
+
+Prisc :
+
+29/02/2024
+          Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui
+Adrian :
+
+
+Yolanda : 
+
+
+Nadj :
+
+
+Prisc :
+
+01/03/2024
           Ce que j'ai fait la veille,    Problème rencontrer,   Ce que je fait aujourd'hui
 Adrian :
 
